@@ -44,5 +44,6 @@ This project focuses on building a speech-to-text recognition system using pre-t
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f06d0065-e403-409d-a65c-2273a505f842)
 
 
