@@ -1,0 +1,8 @@
+venv/ 
+__pycache__/ 
+*.wav 
+*.mp3 
+*.flac 
+*.mp4 
+*.pkl 
+audio_samples/ 

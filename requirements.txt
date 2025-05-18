@@ -1,0 +1,8 @@
+streamlit
+pydub
+speechrecognition
+transformers
+torchaudio
+soundfile
+numpy
+scipy
